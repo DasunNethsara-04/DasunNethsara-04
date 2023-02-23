@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **techsaralk.pro@gmail.com**
 
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
