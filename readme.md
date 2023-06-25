@@ -1,9 +1,7 @@
-<p align="center">
-    <a href="#"><img width="550" height="500" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500"/></a>
-</p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dasun</h1>
-<h3 align="center">I'm a Developer from Sri Lanka.</h3>
+<h3 align="center">I'm a Python Programmer from Sri Lanka.</h3>
 
 
 ## 🙋‍♂️ About Me
