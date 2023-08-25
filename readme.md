@@ -54,7 +54,8 @@
 <p align="left">
 
 <a href = "https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://t.me/techsara_lk"><img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2d9f4ca2-03e3-44d2-bb79-a8b59673ad4d" width=48 height=48/></a>
+
+<!-- <a href = "https://t.me/techsara_lk"><img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2d9f4ca2-03e3-44d2-bb79-a8b59673ad4d" width=48 height=48/></a> -->
 
 </p>
 
