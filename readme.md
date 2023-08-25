@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dasun</h1>
 <h3 align="center">I'm a Web Developer from Sri Lanka.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Techසර LK](https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg)**
@@ -17,11 +16,12 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2aa9c9ad-ae67-4802-9736-d8793c3534f2"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/05d32bbb-0586-4059-b974-70ecd7c026f9" width='48' height='48'/> </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/3c313188-3983-4e97-9fef-a9cb13888240" width='48' height='48'/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -41,7 +41,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -51,13 +50,16 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://t.me/techsara_lk"><img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2d9f4ca2-03e3-44d2-bb79-a8b59673ad4d" width=48 height=48/></a>
 
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DasunNethsara-04">
 </a>
