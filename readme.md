@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **techsaralk.pro@gmail.com**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DasunNethsara-04" alt="DasunNethsara-04" /></a> </p>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -53,9 +55,9 @@
 
 <p align="left">
 
-<a href = "https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-<!-- <a href = "https://t.me/techsara_lk"><img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2d9f4ca2-03e3-44d2-bb79-a8b59673ad4d" width=48 height=48/></a> -->
+<a href = "https://t.me/techsara_lk"><img src="https://img.icons8.com/nolan/48/telegram-app.png"/></a>
+<a href = "https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg"><img src="https://img.icons8.com/nolan/48/youtube-play.png"/></a>
+<a href = "https://linkedin.com/in/dasun-nethsara-086354282"><img src="https://img.icons8.com/nolan/48/linkedin-circled.png"/></a>
 
 </p>
 
