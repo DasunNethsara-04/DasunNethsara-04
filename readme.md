@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **techsaralk.pro@gmail.com**
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DasunNethsara-04" alt="DasunNethsara-04" /></a> </p>
 
 ## 🚀 Languages and Tools:
