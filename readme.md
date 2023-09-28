@@ -16,17 +16,23 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DasunNethsara-04" alt="DasunNethsara-04" /></a> </p>
 
 ## 🚀 Languages and Tools:
-
-<p align="left"> 
+<!--<p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2aa9c9ad-ae67-4802-9736-d8793c3534f2"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/05d32bbb-0586-4059-b974-70ecd7c026f9" width='48' height='48'/> </a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/3c313188-3983-4e97-9fef-a9cb13888240" width='48' height='48'/> </a>
-</p>
+</p>-->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&style=for-the-badge)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&style=for-the-badge)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![NextJs Badge](https://img.shields.io/badge/-Nextjs-black?logo=next.js&logoColor=white&style=for-the-badge)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)](#)  
+[![JQuery Badge](https://img.shields.io/badge/jquery-blue?logo=jquery&logoColor=white&style=for-the-badge)](#) 
+[![MySQL Badge](https://img.shields.io/badge/mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)](#)
 <br/>
 
 <p align="center">
