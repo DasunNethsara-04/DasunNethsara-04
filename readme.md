@@ -25,14 +25,14 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/3c313188-3983-4e97-9fef-a9cb13888240" width='48' height='48'/> </a>
 </p>-->
 
-[![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&labelColor=black&style=for-the-badge)](#)
-[![PHP Badge](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&labelColor=black&style=for-the-badge)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![NextJs Badge](https://img.shields.io/badge/-Nextjs-black?logo=next.js&labelColor=black&logoColor=white&style=for-the-badge)](#) 
-[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&labelColor=black&logoColor=white&style=for-the-badge)](#)  
-[![JQuery Badge](https://img.shields.io/badge/jquery-blue?logo=jquery&labelColor=black&logoColor=white&style=for-the-badge)](#) 
-[![MySQL Badge](https://img.shields.io/badge/mysql-white?logo=mysql&labelColor=black&logoColor=blue&style=for-the-badge)](#)
+[![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&labelColor=black&style=for-the-badge)](#)&nbsp;&nbsp;
+[![PHP Badge](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&labelColor=black&style=for-the-badge)](#)&nbsp;&nbsp;
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) &nbsp;&nbsp;
+[![NextJs Badge](https://img.shields.io/badge/-Nextjs-black?logo=next.js&labelColor=black&logoColor=white&style=for-the-badge)](#) &nbsp;&nbsp;
+[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&labelColor=black&logoColor=white&style=for-the-badge)](#)&nbsp;&nbsp;
+[![JQuery Badge](https://img.shields.io/badge/jquery-blue?logo=jquery&labelColor=black&logoColor=white&style=for-the-badge)](#) &nbsp;&nbsp;
+[![MySQL Badge](https://img.shields.io/badge/mysql-white?logo=mysql&labelColor=black&logoColor=blue&style=for-the-badge)](#)&nbsp;&nbsp;
 <br/>
 
 <p align="center">
