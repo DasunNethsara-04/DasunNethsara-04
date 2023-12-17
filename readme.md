@@ -16,14 +16,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DasunNethsara-04" alt="DasunNethsara-04" /></a> </p>
 
 ## 🚀 Languages and Tools:
-<!--<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/2aa9c9ad-ae67-4802-9736-d8793c3534f2"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/05d32bbb-0586-4059-b974-70ecd7c026f9" width='48' height='48'/> </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/DasunNethsara-04/DasunNethsara-04/assets/99202052/3c313188-3983-4e97-9fef-a9cb13888240" width='48' height='48'/> </a>
-</p>-->
 
 [![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&labelColor=black&style=for-the-badge)](#)&nbsp;&nbsp;
 [![PHP Badge](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&labelColor=black&style=for-the-badge)](#)&nbsp;&nbsp;
