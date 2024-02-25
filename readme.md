@@ -17,12 +17,16 @@
 
 ## 🚀 Languages and Tools:
 
-[![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow&labelColor=black&style=for-the-badge)](#)&nbsp;&nbsp;
-[![PHP Badge](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&labelColor=black&style=for-the-badge)](#)&nbsp;&nbsp;
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)&nbsp;&nbsp;
-[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&labelColor=black&logoColor=white&style=for-the-badge)](#)&nbsp;&nbsp;
-[![JQuery Badge](https://img.shields.io/badge/jquery-blue?logo=jquery&labelColor=black&logoColor=white&style=for-the-badge)](#) &nbsp;&nbsp;
-[![MySQL Badge](https://img.shields.io/badge/mysql-white?logo=mysql&labelColor=black&logoColor=blue&style=for-the-badge)](#)&nbsp;&nbsp;
+[![Python Badge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;&nbsp;
+[![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](#)&nbsp;&nbsp;
+[![Javascript Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](#)&nbsp;&nbsp;
+[![React JS Badge](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)](#)&nbsp;&nbsp;
+[![Node JS Badge](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](#)&nbsp;&nbsp;
+[![MongoDB Badge](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#)&nbsp;&nbsp;
+[![Express JS Badge](https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)](#)&nbsp;&nbsp;
+[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](#)&nbsp;&nbsp;
+[![JQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](#) &nbsp;&nbsp;
+[![MySQL Badge](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;&nbsp;
 <br/>
 
 <p align="center">
