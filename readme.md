@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dasun</h1>
-<h3 align="center">I'm a Web Developer from Sri Lanka.</h3>
+<h3 align="center">I'm a Full Stack Web Developer from Sri Lanka.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Techසර LK](https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg)**
 
-- 🌱 I’m currently learning **Python and PHP.**
+- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
