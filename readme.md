@@ -20,15 +20,12 @@
 [![Python Badge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;&nbsp;
 [![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](#)&nbsp;&nbsp;
 [![Javascript Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](#)&nbsp;&nbsp;
-[![React JS Badge](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)](#)&nbsp;&nbsp;
 [![Node JS Badge](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](#)&nbsp;&nbsp;
-[![MongoDB Badge](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#)&nbsp;&nbsp;
 [![Express JS Badge](https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)](#)&nbsp;&nbsp;
 [![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](#)&nbsp;&nbsp;
 [![JQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](#) &nbsp;&nbsp;
 [![MySQL Badge](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;&nbsp;
 [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)&nbsp;&nbsp;
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)&nbsp;&nbsp;
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)&nbsp;
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)&nbsp;
 [![Manjaro Badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](#)&nbsp;
