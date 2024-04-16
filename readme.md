@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Techසර LK](https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg)**
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+- 🌱 I’m currently learning **Flask, Django and MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
