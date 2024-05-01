@@ -16,21 +16,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DasunNethsara-04" alt="DasunNethsara-04" /></a> </p>
 
 ## 🚀 Languages and Tools:
+<div align="center">
+<div align="center">
 
-[![Python Badge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;&nbsp;
-[![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](#)&nbsp;&nbsp;
-[![Javascript Badge](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](#)&nbsp;&nbsp;
-[![Node JS Badge](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)](#)&nbsp;&nbsp;
-[![Express JS Badge](https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)](#)&nbsp;&nbsp;
-[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](#)&nbsp;&nbsp;
-[![JQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](#) &nbsp;&nbsp;
-[![MySQL Badge](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;&nbsp;
-[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)&nbsp;&nbsp;
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)&nbsp;
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)&nbsp;
-[![Manjaro Badge](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](#)&nbsp;
-[![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)&nbsp;
-<br/>
+| Title | Icon |
+| ------ | ------ |
+| IDE's |  <img src="https://skillicons.dev/icons?i=vscode,arduino,pycharm,webstorm" /> |
+| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,php,js" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,vuejs,vite" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=php,flask,nodejs,django" /> |
+| database |  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| Version C. |  <img src="https://skillicons.dev/icons?i=git,github" /> |
+| OS |  <img src="https://skillicons.dev/icons?i=linux,bash,windows" /> |
+</div>                                                             
+</div>
 
 <p align="center">
     <a href="https://github.com/DasunNethsara-04/github-readme-streak-stats">
