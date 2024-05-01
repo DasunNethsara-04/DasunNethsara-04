@@ -27,7 +27,7 @@
 | Back End |  <img src="https://skillicons.dev/icons?i=php,flask,nodejs,django" /> |
 | database |  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
 | Version C. |  <img src="https://skillicons.dev/icons?i=git,github" /> |
-| OS |  <img src="https://skillicons.dev/icons?i=linux,bash,windows" /> |
+| OS |  <img src="https://skillicons.dev/icons?i=windows,linux" /> |
 </div>                                                             
 </div>
 
