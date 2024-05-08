@@ -21,11 +21,11 @@
 
 | Title | Icon |
 | ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=vscode,arduino,pycharm,webstorm" /> |
-| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,php,js" /> |
+| IDE's |  <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm" /> |
+| Pro. Lang.. |  <img src="https://skillicons.dev/icons?i=py,php,js" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,vuejs,vite" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=php,flask,nodejs" /> |
-| database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
+| Database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
 | Version C. |  <img src="https://skillicons.dev/icons?i=git,github" /> |
 | OS |  <img src="https://skillicons.dev/icons?i=windows,linux" /> |
 </div>                                                             
