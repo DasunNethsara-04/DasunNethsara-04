@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Sanota Private Limited**
+- 🔭 I’m currently working at **Sanota Private Limited**
 
 - 🌱 I’m currently learning **Flask, Django, Vue js and Golang**
 
