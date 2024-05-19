@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Techසර LK](https://www.youtube.com/channel/UCpWe6k8GxYuLmlzlvX7VBRg)**
+- 🔭 I’m currently working on **Sanota Private Limited**
 
 - 🌱 I’m currently learning **Flask, Django, Vue js and Golang**
 
