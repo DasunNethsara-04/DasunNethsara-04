@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Sanota Private Limited**
 
-- 🌱 I’m currently learning **Flask and Django**
+- 🌱 I’m currently learning **Flask, Django, Go**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
