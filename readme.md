@@ -22,8 +22,8 @@
 | Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm" /> |
-| Pro. Lang.. |  <img src="https://skillicons.dev/icons?i=py,php,go" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,vuejs,vite" /> |
+| Pro. Lang.. |  <img src="https://skillicons.dev/icons?i=py,php,go,typescript" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,vuejs,vite,nextjs" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=php,flask,nodejs" /> |
 | Database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
 | Version C. |  <img src="https://skillicons.dev/icons?i=git,github" /> |
