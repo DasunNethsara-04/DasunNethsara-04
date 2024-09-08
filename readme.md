@@ -24,8 +24,8 @@
 | IDE's |  <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm" /> |
 | Pro. Lang.. |  <img src="https://skillicons.dev/icons?i=py,php" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,vite,react" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=php,flask,nodejs" /> |
-| Database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=php,flask,nodejs,express" /> |
+| Database |  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
 | Version C. |  <img src="https://skillicons.dev/icons?i=git,github" /> |
 | OS |  <img src="https://skillicons.dev/icons?i=windows,linux" /> |
 </div>                                                             
