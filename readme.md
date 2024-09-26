@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **@LycorisCafe**
+- 🔭 I’m currently working at **Lycoris Cafe**
 
 - 🌱 I’m currently learning **React.js, Laravel**
 
