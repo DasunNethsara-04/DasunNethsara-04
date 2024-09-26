@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **Sanota Private Limited**
+- 🔭 I’m currently working at **@LycorisCafe**
 
 - 🌱 I’m currently learning **React.js, Laravel**
 
