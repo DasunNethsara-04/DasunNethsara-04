@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Backend Web Developer from Sri Lanka.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working at Lycoris Cafe and ZenithPHP Framework<br><br>🌱 I’m currently learning Vue.js, Laravel, Java<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me techsaralk.pro@gmail.com
+🔭 I’m currently working at Lycoris Cafe and ZenithPHP Framework<br><br>🌱 I’m currently learning Vue.js, Laravel, Java and Spring Boot<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me techsaralk.pro@gmail.com
 
 
 ## 🌐 Socials:
