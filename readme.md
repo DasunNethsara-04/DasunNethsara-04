@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [www.techsaralk.epizy.com](http://techsaralk.epizy.com)<br>
 - 📝 I regularly write articles on [https://medium.com/@techsaralk.pro](https://medium.com/@techsaralk.pro)<br>
 - 💬 Ask me about **Python, Laravel, PHP**<br>
-- 📫 How to reach me **techsaralk.pro@gmail.com, dasunneth2004@gmail.com**<br>
+- 📫 How to reach me **techsaralk.pro@gmail.com**<br>
 - 📄 Know about my experiences [www.techsaralk.epizy.com](http://techsaralk.epizy.com)
 
 
