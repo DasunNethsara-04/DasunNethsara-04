@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br> -->
-- 🌱 I’m currently learning **C, C++, Rust**<br>
+- 🌱 I’m currently learning **C**<br>
 - 🤝 I’m looking for help with [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br>
 - 👨‍💻 All of my projects are available at [www.techsaralk.epizy.com](http://techsaralk.epizy.com)<br>
 - 📝 I regularly write articles on [https://medium.com/@techsaralk.pro](https://medium.com/@techsaralk.pro)<br>
