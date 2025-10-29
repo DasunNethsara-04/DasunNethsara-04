@@ -30,7 +30,7 @@
 
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br> -->
-- 🌱 I’m currently learning **C**<br>
+- 🌱 I’m currently learning **Go**<br>
 - 🤝 I’m looking for help with [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br>
 - 👨‍💻 All of my projects are available at [www.techsaralk.epizy.com](http://techsaralk.epizy.com)<br>
 - 📝 I regularly write articles on [https://medium.com/@techsaralk.pro](https://medium.com/@techsaralk.pro)<br>
@@ -42,6 +42,7 @@
 
 # 💻 Tech Stack:
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
