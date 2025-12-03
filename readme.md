@@ -11,8 +11,8 @@
   <a href="https://www.youtube.com/@campuscoderacademy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.facebook.com/dasunnethsara2004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.researchgate.net/profile/Dasun-Nethsara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=40BA9B&logoColor=F6F6F6&labelColor=393939&style=for-the-badge" height="25" alt="researchgate logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/techsaralk_pro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
@@ -30,7 +30,7 @@
 
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br> -->
-- 🌱 I’m currently learning **Go**<br>
+- 🌱 I’m currently learning **C++**<br>
 - 🤝 I’m looking for help with [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br>
 - 👨‍💻 All of my projects are available at [www.techsaralk.epizy.com](http://techsaralk.epizy.com)<br>
 - 📝 I regularly write articles on [https://medium.com/@techsaralk.pro](https://medium.com/@techsaralk.pro)<br>
