@@ -30,7 +30,7 @@
 
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br> -->
-- 🌱 I’m currently learning **Java, Spring Boot**<br>
+- 🌱 I’m currently learning **Electronics, Embedded Systems**<br>
 - 🤝 I’m looking for help with [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br>
 - 👨‍💻 All of my projects are available at [www.techsaralk.epizy.com](http://techsaralk.epizy.com)<br>
 - 📝 I regularly write articles on [https://medium.com/@techsaralk.pro](https://medium.com/@techsaralk.pro)<br>
