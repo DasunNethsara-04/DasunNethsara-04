@@ -1,8 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dasun</h1>
-
-###
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dasun Nethsara</h1>
+<h3 align="center">An aspiring Embedded Software Developer from Sri Lanka</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dasun-nethsara/" target="_blank">
@@ -11,9 +10,9 @@
   <a href="https://www.youtube.com/@campuscoderacademy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.researchgate.net/profile/Dasun-Nethsara" target="_blank">
+  <!-- <a href="https://www.researchgate.net/profile/Dasun-Nethsara" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=40BA9B&logoColor=F6F6F6&labelColor=393939&style=for-the-badge" height="25" alt="researchgate logo"  />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/profile/techsaralk_pro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
@@ -31,29 +30,28 @@
 # 💫 About Me:
 <!-- - 🔭 I’m currently working on [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br> -->
 - 🌱 I’m currently learning **Electronics, Embedded Systems**<br>
-- 🤝 I’m looking for help with [ZenithPHP Framework](https://github.com/ZenithPHP-Framework/)<br>
-- 👨‍💻 All of my projects are available at [www.techsaralk.epizy.com](http://techsaralk.epizy.com)<br>
+- 👨‍💻 All of my projects are available at [my portfolio](https://dasunnethsara2004.vercel.app/)<br>
 - 📝 I regularly write articles on [https://medium.com/@techsaralk.pro](https://medium.com/@techsaralk.pro)<br>
-- 💬 Ask me about **Python, Laravel, PHP**<br>
+- 💬 Ask me about **Python, Embedded C**<br>
 - 📫 How to reach me **techsaralk.pro@gmail.com**<br>
-- 📄 Know about my experiences [www.techsaralk.epizy.com](http://techsaralk.epizy.com)
+- 📄 Know about my experience [Portfolio](https://dasunnethsara2004.vercel.app/)
 <br>
 
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
@@ -73,11 +71,11 @@
 </div>
 <br>
 
-<h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<!-- <h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DasunNethsara-04&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-<br>
+<br> -->
 
 ## 🔥 Contribution Insights
 
@@ -87,28 +85,32 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DasunNethsara-04&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DasunNethsara-04&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DasunNethsara-04&theme=radical" width="32%"/>
+</div> -->
+
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunnethsara-04&show_icons=true&locale=en" alt="dasunnethsara-04" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunnethsara-04&show_icons=true&locale=en" alt="dasunnethsara-04" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasunnethsara-04" alt="dasunnethsara-04" /></p>
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DasunNethsara-04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DasunNethsara-04&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
 ---
+-->
+<!--
 [![](https://visitcount.itsvg.in/api?id=DasunNethsara-04&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 ## ❤ Views and Followers
-
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DasunNethsara-04">
 </a>
 <a href="https://github.com/DasunNethsara-04?tab=followers"><img src="https://img.shields.io/github/followers/DasunNethsara-04?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
